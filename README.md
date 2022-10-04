@@ -1,9 +1,9 @@
 ## Hello there 👋
 
-I'm Edoardo, a fintech professional passionate about technology, innovation and new ventures.
+I'm Edo. I'm a business developer, tech ethusiast, self-taught programmer and former speed skater from Italys.
 
-From the last few years i'm focused on the growth of [BacktoWork](https://backtowork24.com) 📈, one of the leading crowdinvesting platform in Italy (from 2019 part of Intesa Sanpaolo Group).
+Right now, I'm head of growth at [BacktoWork](https://www.backtowork24.com), one of the leading crowdinvesting platform in Italy (backed by [Intesa Sanpaolo](https://en.wikipedia.org/wiki/Intesa_Sanpaolo)). 
 
 
-### Want to get in touch? 👇
+### Let's get in touch 👇
 <a href="https://twitter.com/EdoardoReggiani"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a>&ensp;<a href="https://www.linkedin.com/in/edoardo-reggiani/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a>
