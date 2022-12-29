@@ -2,7 +2,7 @@
 
 Business developer, tech ethusiast, self-taught programmer and former speed skater from Italy.
 
-Right now, I'm head of growth at [BacktoWork](https://www.backtowork24.com), one of the leading crowdinvesting platform in Italy (backed by [Intesa Sanpaolo](https://en.wikipedia.org/wiki/Intesa_Sanpaolo)). 
+Right now, I'm head of growth at [BacktoWork](https://www.backtowork24.com), one of the leading crowdinvesting and club deal platform in Italy (backed by [Intesa Sanpaolo](https://en.wikipedia.org/wiki/Intesa_Sanpaolo)). 
 
 
 ### Let's get in touch 👇
