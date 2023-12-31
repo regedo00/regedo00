@@ -1,8 +1,8 @@
 ## Hello there, I'm Edo 👋
 
-I'm a fintech professional, a tech enthusiast, and a self-taught Python programmer from Italy.
+I'm a technology enthusiast with a deep understanding of startups and fundraising, particularly through syndicates and community rounds
 
-Currently, I serve as the Head of Growth at [BacktoWork](https://www.backtowork24.com), a platform with the mission to support Italian startups in raising funds from retail and HNWI investors through syndicates & community rounds.
+In the past few years I've been the Head of Growth at [BacktoWork](https://www.backtowork24.com), a platform with the mission to support Italian startups in raising funds from retail and HNWI investors through syndicates & community rounds.
 
 If you're beginning your startup fundraising journey and don't know where to start, I recommend checking [this repo](https://github.com/regedo00/trw-startup-resources) with free resources!
 
